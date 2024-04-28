@@ -17,3 +17,4 @@ print(name  + surname)
 #print(name + age) str არის ბრჭყალებში მოქცეული სიმბოლო
 print(type(age))
 print(name + str(age))
+#homework დაწერეთ მთლიანი წინადადებები შენს თავზე print-ის შესახებ
